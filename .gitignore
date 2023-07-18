@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TechTalk2023/bin/Debug
+/TechTalk2023/obj
+/TechTalk2023.DBEngine/bin/Debug
+/TechTalk2023.DBEngine/obj
+/TechTalk2023.Framework/bin/Debug
+/TechTalk2023.Framework/obj
+/TechTalk2023.Models/bin/Debug
+/TechTalk2023.Models/obj
+/TechTalk2023.Repository/bin/Debug
+/TechTalk2023.Repository/obj
+/TechTalk2023.Service/bin/Debug
+/TechTalk2023.Service/obj
