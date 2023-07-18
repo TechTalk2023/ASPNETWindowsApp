@@ -16,5 +16,6 @@ namespace TechTalk2023.Framework
     {
         static public string StudentInfo = "Student Info" ;
         static public string ProgramDetails = "Program Details";
+           static public string ProgramDetails1 = "Program Details2";
     }
 }
