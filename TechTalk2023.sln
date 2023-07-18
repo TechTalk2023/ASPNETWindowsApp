@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk2023", "TechTalk2023\TechTalk2023.csproj", "{63A9A765-686E-44F6-A488-76515B9D4F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk2023.DBEngine", "TechTalk2023.DBEngine\TechTalk2023.DBEngine.csproj", "{363B016F-3C09-43F0-B157-AB3E4BED2BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk2023.Framework", "TechTalk2023.Framework\TechTalk2023.Framework.csproj", "{E82BA3B3-C65D-4815-9391-21C7B0077315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk2023.Models", "TechTalk2023.Models\TechTalk2023.Models.csproj", "{00F12B9E-C3C2-458F-9941-68F3E0EC3FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk2023.Repository", "TechTalk2023.Repository\TechTalk2023.Repository.csproj", "{69B4C039-C786-4F01-AB09-8FC714D84EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTalk2023.Service", "TechTalk2023.Service\TechTalk2023.Service.csproj", "{FCCEEFBC-7FF8-469A-BACD-CE9D961C58FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A9A765-686E-44F6-A488-76515B9D4F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A9A765-686E-44F6-A488-76515B9D4F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A9A765-686E-44F6-A488-76515B9D4F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A9A765-686E-44F6-A488-76515B9D4F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363B016F-3C09-43F0-B157-AB3E4BED2BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363B016F-3C09-43F0-B157-AB3E4BED2BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363B016F-3C09-43F0-B157-AB3E4BED2BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363B016F-3C09-43F0-B157-AB3E4BED2BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82BA3B3-C65D-4815-9391-21C7B0077315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82BA3B3-C65D-4815-9391-21C7B0077315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82BA3B3-C65D-4815-9391-21C7B0077315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82BA3B3-C65D-4815-9391-21C7B0077315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F12B9E-C3C2-458F-9941-68F3E0EC3FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F12B9E-C3C2-458F-9941-68F3E0EC3FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F12B9E-C3C2-458F-9941-68F3E0EC3FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F12B9E-C3C2-458F-9941-68F3E0EC3FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B4C039-C786-4F01-AB09-8FC714D84EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B4C039-C786-4F01-AB09-8FC714D84EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B4C039-C786-4F01-AB09-8FC714D84EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B4C039-C786-4F01-AB09-8FC714D84EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCEEFBC-7FF8-469A-BACD-CE9D961C58FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCEEFBC-7FF8-469A-BACD-CE9D961C58FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCEEFBC-7FF8-469A-BACD-CE9D961C58FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCEEFBC-7FF8-469A-BACD-CE9D961C58FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA64698-C8FB-4756-A923-80D4C6C94CD9}
+	EndGlobalSection
+EndGlobal
