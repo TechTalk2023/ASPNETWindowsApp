@@ -20,10 +20,10 @@ namespace TechTalk2023.Framework
         static public string GetProgramSelect = "SELECT ProgramId, [ProgramCode] ,[ProgramName],[ProgramType] ,[ProgramDescription],[ProgramYear] FROM [dbo].[ProgramDetails] where IsDelete =0 ";
         static public string GetProgramSelectById = "SELECT ProgramId, [ProgramCode] ,[ProgramName],[ProgramType] ,[ProgramDescription],[ProgramYear] FROM [dbo].[ProgramDetails] where IsDelete =0 and ProgramId = {0}";
         static public string DeleteProgramInfo = "UPDATE [dbo].[ProgramDetails] SET IsDelete=1  WHERE ProgramId = {0}";
-        // static public string InsertProgram = "INSERT INTO [dbo].[ProgramDetails] ([ProgramCode] ,[ProgramName],[ProgramType] ,[ProgramDescription],[ProgramYear]) VALUES ('{0}','{1}','{2}','{3}','{4}')";
-       // static public string UpdateProgram = "UPDATE [dbo].[ProgramDetails] SET [ProgramCode] = '{0}' ,[ProgramName] = '{1}',[ProgramType] = '{2}',[ProgramDescription] = '{3}',[ProgramYear] = '{4}'  WHERE ProgramId = '{5}'";
+        static public string InsertProgram = "INSERT INTO [dbo].[ProgramDetails] ([ProgramCode] ,[ProgramName],[ProgramType] ,[ProgramDescription],[ProgramYear]) VALUES ('{0}','{1}','{2}','{3}','{4}')";
+        static public string UpdateProgram = "UPDATE [dbo].[ProgramDetails] SET [ProgramCode] = '{0}' ,[ProgramName] = '{1}',[ProgramType] = '{2}',[ProgramDescription] = '{3}',[ProgramYear] = '{4}'  WHERE ProgramId = '{5}'";
 
-
+         
 
     }
 }

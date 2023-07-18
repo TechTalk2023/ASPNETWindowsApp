@@ -14,7 +14,6 @@ namespace TechTalk2023.Framework
         static public string UnableToDelete = "Unable to Delete the Record";
         static public string SaveMessage = "Record is Saved";
         static public string DeleteMessage = "Record is Deleted";
-        static public string DeleteMessage1 = "Record is Deleted";
        
     }
 }
